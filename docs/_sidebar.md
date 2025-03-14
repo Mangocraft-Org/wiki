@@ -1,6 +1,7 @@
 - 进服须知
 
   - [服务器规则](rule.md)
+  - [最终用户许可协议（EULA）](eula.md)
   - [常用命令大全](commands.md)
   - [运营模式](mode.md)
   - [推荐资源](resources.md)
